@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to Alicia's Portfolio 👋
+I'm just getting started, but this is the place where I'll be uploading various data science projects.
+
+Projects:
+Insurance Cost Prediction: Various regression models.
 
 <!--
 **alcstn/alcstn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
